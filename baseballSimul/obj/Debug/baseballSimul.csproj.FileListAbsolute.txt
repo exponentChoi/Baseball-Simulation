@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.csprojAssemblyReference.cache
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.Form1.resources
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.Properties.Resources.resources
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.csproj.GenerateResource.cache
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\baseballSimul\baseballSimul\bin\Debug\baseballSimul.exe.config
+C:\Users\User\source\repos\baseballSimul\baseballSimul\bin\Debug\baseballSimul.exe
+C:\Users\User\source\repos\baseballSimul\baseballSimul\bin\Debug\baseballSimul.pdb
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.exe
+C:\Users\User\source\repos\baseballSimul\baseballSimul\obj\Debug\baseballSimul.pdb
